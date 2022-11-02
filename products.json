@@ -1,0 +1,18 @@
+[
+    { 
+    "title":"Samsung",
+    "price":2000,
+    "thumbnail":"url1"
+},
+ 
+{ 
+    "title":"Apple",
+    "price":4000,
+    "thumbnail":"url2"
+},
+  { 
+    "title":"Motorola",
+    "price":3000,
+    "thumbnail":"url3"
+}
+]
