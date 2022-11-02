@@ -26,7 +26,7 @@ server.get('/',(req,res)=>{
 })
 
 server.get('/*',(req,res)=>{
-    res.send(`<h1 style="background-color:grey;"> La ruta ingresada no existe</h1>`)
+    res.send(`<h1 style="background-color:red;"> La ruta ingresada no existe</h1>`)
 })
 
 server.get('/productoRandom',async(request,response)=>{
